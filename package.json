@@ -1,0 +1,25 @@
+{
+  "name": "reduxexercise",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "redux": "^4.1.2",
+    "regenerator-runtime": "^0.13.9"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sivaraman251600/reduxExercise.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sivaraman251600/reduxExercise/issues"
+  },
+  "homepage": "https://github.com/sivaraman251600/reduxExercise#readme"
+}
